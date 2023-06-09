@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NBody",
+            "request": "launch",
+            "mainClass": "NBody",
+            "projectName": "proj0_26ff89e7",
+            "args": [
+                157788000,
+                25000,
+                "data/planets.txt"
+            ]
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -30,14 +42,6 @@
             "request": "launch",
             "mainClass": "InDemo",
             "projectName": "proj0_26ff89e7"
-        },
-        {
-            "type": "java",
-            "name": "Nbody",
-            "request": "launch",
-            "mainClass": "Nbody",
-            "projectName": "proj0_26ff89e7",
-            "args": [157788000.0, 25000.0, "data/planets.txt"]
         },
         {
             "type": "java",
