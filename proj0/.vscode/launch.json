@@ -1,0 +1,134 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BasicInDemo",
+            "request": "launch",
+            "mainClass": "BasicInDemo",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "In",
+            "request": "launch",
+            "mainClass": "In",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "InDemo",
+            "request": "launch",
+            "mainClass": "InDemo",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "Nbody",
+            "request": "launch",
+            "mainClass": "Nbody",
+            "projectName": "proj0_26ff89e7",
+            "args": [157788000.0, 25000.0, "data/planets.txt"]
+        },
+        {
+            "type": "java",
+            "name": "StdAudio",
+            "request": "launch",
+            "mainClass": "StdAudio",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "StdDraw",
+            "request": "launch",
+            "mainClass": "StdDraw",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "StdDrawDemo",
+            "request": "launch",
+            "mainClass": "StdDrawDemo",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "StdOut",
+            "request": "launch",
+            "mainClass": "StdOut",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "StdRandom",
+            "request": "launch",
+            "mainClass": "StdRandom",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "TestCalcDistance",
+            "request": "launch",
+            "mainClass": "TestCalcDistance",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "TestCalcForceExertedBy",
+            "request": "launch",
+            "mainClass": "TestCalcForceExertedBy",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "TestCalcForceExertedByXY",
+            "request": "launch",
+            "mainClass": "TestCalcForceExertedByXY",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "TestCalcNetForceExertedByXY",
+            "request": "launch",
+            "mainClass": "TestCalcNetForceExertedByXY",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "TestPlanetConstructor",
+            "request": "launch",
+            "mainClass": "TestPlanetConstructor",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "TestReadPlanets",
+            "request": "launch",
+            "mainClass": "TestReadPlanets",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "TestReadRadius",
+            "request": "launch",
+            "mainClass": "TestReadRadius",
+            "projectName": "proj0_26ff89e7"
+        },
+        {
+            "type": "java",
+            "name": "TestUpdate",
+            "request": "launch",
+            "mainClass": "TestUpdate",
+            "projectName": "proj0_26ff89e7"
+        }
+    ]
+}
